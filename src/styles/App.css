@@ -1,0 +1,33 @@
+/* App.css */
+.app-container {
+  font-family: 'Inter', Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background-color: #4caf50;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.app-main {
+  flex: 1;
+  padding: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.app-footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}

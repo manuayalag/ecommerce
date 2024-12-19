@@ -1,0 +1,782 @@
+[
+   {
+      "id": "PT022291",
+      "nombre": "PEPPERONI PIZZERO E\/V",
+      "precio": 81800,
+      "ventas": 2313593624
+   },
+   {
+      "id": "PT061002",
+      "nombre": "JAMONADA 4KG ENTERA",
+      "precio": 30400,
+      "ventas": 667939685
+   },
+   {
+      "id": "PT043070",
+      "nombre": "JAMONADA GRANJA SUIZA ENTERA",
+      "precio": 28200,
+      "ventas": 426906644
+   },
+   {
+      "id": "PT022803",
+      "nombre": "PANCETA AHUMADA FETAS x 1 KG E\/V",
+      "precio": 56800,
+      "ventas": 394118946
+   },
+   {
+      "id": "PT022806",
+      "nombre": "PANCETA GASTRONOMICA x 500 E\/V",
+      "precio": 56500,
+      "ventas": 301891422
+   },
+   {
+      "id": "PT061170",
+      "nombre": "MIXTO JAMON QUESO E\/V",
+      "precio": 64800,
+      "ventas": 300229715
+   },
+   {
+      "id": "PT010700",
+      "nombre": "SALCHICHAS SUELTAS",
+      "precio": 31100,
+      "ventas": 271722094
+   },
+   {
+      "id": "PT011500",
+      "nombre": "CHOR.PARRILLERO PRECOCIDO",
+      "precio": 30400,
+      "ventas": 255919884
+   },
+   {
+      "id": "PT061020",
+      "nombre": "JAMONADA CAMPO",
+      "precio": 21600,
+      "ventas": 238418680
+   },
+   {
+      "id": "PT022293",
+      "nombre": "PEPPERONI FETAS X 250 E\/V",
+      "precio": 82900,
+      "ventas": 217930928
+   },
+   {
+      "id": "PT022802",
+      "nombre": "PANCETA AHUMADA FETAS x 200 E\/V",
+      "precio": 57000,
+      "ventas": 205404636
+   },
+   {
+      "id": "PT022296",
+      "nombre": "PEPPERONI FETAS X 100 E\/V",
+      "precio": 89400,
+      "ventas": 193643701
+   },
+   {
+      "id": "PT043050",
+      "nombre": "SALCHICHAS SUELTAS GRANJA SUIZA",
+      "precio": 27100,
+      "ventas": 172475690
+   },
+   {
+      "id": "PT061000",
+      "nombre": "JAMONADA 3.2KG ENTERA",
+      "precio": 30400,
+      "ventas": 166519755
+   },
+   {
+      "id": "PT022805",
+      "nombre": "MIGA DE PANCETA",
+      "precio": 31600,
+      "ventas": 164677588
+   },
+   {
+      "id": "MP030022",
+      "nombre": "PIERNA CON HUESO",
+      "precio": 27200,
+      "ventas": 140413096
+   },
+   {
+      "id": "PT043000",
+      "nombre": "SALAME COMUN GRANJA SUIZA",
+      "precio": 20400,
+      "ventas": 127009488
+   },
+   {
+      "id": "PT061150",
+      "nombre": "JAMON COCIDO ENTERO",
+      "precio": 40600,
+      "ventas": 124824210
+   },
+   {
+      "id": "PT022297",
+      "nombre": "PEPPERONI FETAS X 150 E\/V",
+      "precio": 83400,
+      "ventas": 121563600
+   },
+   {
+      "id": "PT043076",
+      "nombre": "JAMONADA GRANJA x 200 E\/V",
+      "precio": 30800,
+      "ventas": 120587313
+   },
+   {
+      "id": "MP030007",
+      "nombre": "Costilla Grill de Cerdo",
+      "precio": 27200,
+      "ventas": 118524095
+   },
+   {
+      "id": "PT022804",
+      "nombre": "PANCETA AHUMADA FETAS x 3 KG E\/V",
+      "precio": 56500,
+      "ventas": 118275245
+   },
+   {
+      "id": "MP030024",
+      "nombre": "COSTELETA ENTERA",
+      "precio": 27200,
+      "ventas": 115073669
+   },
+   {
+      "id": "PT030500",
+      "nombre": "FIAMBRE ESPECIAL GRUESO ENT.",
+      "precio": 43000,
+      "ventas": 109668652
+   },
+   {
+      "id": "PT011550",
+      "nombre": "CHORIZO BESITO PICANTE",
+      "precio": 36200,
+      "ventas": 96185758
+   },
+   {
+      "id": "PT030250",
+      "nombre": "SALAME COMUN ROLLO",
+      "precio": 22700,
+      "ventas": 85262486
+   },
+   {
+      "id": "PT010730",
+      "nombre": "SALCHICHA P\/ SUPER PANCHO",
+      "precio": 31300,
+      "ventas": 84579702
+   },
+   {
+      "id": "PT030400",
+      "nombre": "FIAMBRE KRAKOVIA 2.5KG. ENT.",
+      "precio": 37700,
+      "ventas": 83222325
+   },
+   {
+      "id": "PT022700",
+      "nombre": "COSTILLA AHUMADA DE CERDO",
+      "precio": 40400,
+      "ventas": 74180254
+   },
+   {
+      "id": "PT011504",
+      "nombre": "CHORIZO PARRILLERO C\/ QUESO",
+      "precio": 41900,
+      "ventas": 72357337
+   },
+   {
+      "id": "PT022295",
+      "nombre": "MIGA DE PEPPERONI",
+      "precio": 40700,
+      "ventas": 68372114
+   },
+   {
+      "id": "PT022801",
+      "nombre": "PANCETA AHUMADA ENTERA E\/V",
+      "precio": 56500,
+      "ventas": 67941624
+   },
+   {
+      "id": "MP030019",
+      "nombre": "Espinazo",
+      "precio": 9600,
+      "ventas": 67106767
+   },
+   {
+      "id": "PT022247",
+      "nombre": "CALABRESA FETAS x 150 E\/V",
+      "precio": 83400,
+      "ventas": 62491693
+   },
+   {
+      "id": "PT022298",
+      "nombre": "PEPPERONI ENTERO E\/V",
+      "precio": 81000,
+      "ventas": 61574389
+   },
+   {
+      "id": "MP030027",
+      "nombre": "SOBRE PALETA\/BONDIOLA",
+      "precio": 32400,
+      "ventas": 58403518
+   },
+   {
+      "id": "PT080204",
+      "nombre": "GRASA EMBUTIDA",
+      "precio": 37700,
+      "ventas": 55377808
+   },
+   {
+      "id": "PT022294",
+      "nombre": "PEPPERONI x 1KG E\/V",
+      "precio": 81800,
+      "ventas": 53425626
+   },
+   {
+      "id": "PT022243",
+      "nombre": "CALABRESA FETAS X 250 E\/V",
+      "precio": 82900,
+      "ventas": 53226519
+   },
+   {
+      "id": "PT010600",
+      "nombre": "CHORIZO DE VIENA",
+      "precio": 32300,
+      "ventas": 52043928
+   },
+   {
+      "id": "PT061007",
+      "nombre": "JAMONADA X 250 E\/V",
+      "precio": 34900,
+      "ventas": 51666576
+   },
+   {
+      "id": "PT030265",
+      "nombre": "FIAMBRE CAMPO",
+      "precio": 22700,
+      "ventas": 51640038
+   },
+   {
+      "id": "PT030805",
+      "nombre": "FIAM.PRIMAVERA 2.5Kg CUAD.",
+      "precio": 32600,
+      "ventas": 48208983
+   },
+   {
+      "id": "PT030260",
+      "nombre": "SALAME COMUN LARGO",
+      "precio": 22700,
+      "ventas": 45875908
+   },
+   {
+      "id": "PT030520",
+      "nombre": "FIAMBRE ESPECIAL FINO ENT.",
+      "precio": 43000,
+      "ventas": 43867578
+   },
+   {
+      "id": "PT043080",
+      "nombre": "CHORIZO PARRILLERO GRANJA SUIZA",
+      "precio": 27600,
+      "ventas": 42450933
+   },
+   {
+      "id": "PT011950",
+      "nombre": "COMBO SURTIDO STUDENKO E\/V",
+      "precio": 33000,
+      "ventas": 40829843
+   },
+   {
+      "id": "MP030016",
+      "nombre": "Cabeza de Cerdo",
+      "precio": 4800,
+      "ventas": 39431147
+   },
+   {
+      "id": "PT030310",
+      "nombre": "MORTADELA CUADRADA 2.5 KG ENT.",
+      "precio": 32600,
+      "ventas": 36748517
+   },
+   {
+      "id": "PT021903",
+      "nombre": "LOMITO AHUMADO x 250 E\/V",
+      "precio": 71300,
+      "ventas": 35000797
+   },
+   {
+      "id": "PT061008",
+      "nombre": "MIGA DE JAMONADA",
+      "precio": 21600,
+      "ventas": 32890775
+   },
+   {
+      "id": "PT043020",
+      "nombre": "MORTADELA GRANJA SUIZA ENTERA",
+      "precio": 26300,
+      "ventas": 31563056
+   },
+   {
+      "id": "PT031400",
+      "nombre": "QUESO DE CERDO",
+      "precio": 17500,
+      "ventas": 28656886
+   },
+   {
+      "id": "PT080220",
+      "nombre": "PATITA COLITA OREJA AHUMADA E\/V",
+      "precio": 20900,
+      "ventas": 28057455
+   },
+   {
+      "id": "PT011955",
+      "nombre": "COMBITO SURTIDO STUDENKO E\/V",
+      "precio": 33000,
+      "ventas": 26004564
+   },
+   {
+      "id": "PT043040",
+      "nombre": "CHORIZO DE VIENA GRANJA SUIZA",
+      "precio": 27600,
+      "ventas": 25369308
+   },
+   {
+      "id": "PT022203",
+      "nombre": "SALAME MILAN X 250 E\/V",
+      "precio": 82900,
+      "ventas": 24764881
+   },
+   {
+      "id": "PT022441",
+      "nombre": "JAMONCITO CRUDO FETAS x 250 E\/V",
+      "precio": 91700,
+      "ventas": 24297252
+   },
+   {
+      "id": "PT022403",
+      "nombre": "BONDIOLA FETAS X 250 E\/V",
+      "precio": 91700,
+      "ventas": 23702158
+   },
+   {
+      "id": "PT010702",
+      "nombre": "SALCHICHA x 250 E\/V",
+      "precio": 31100,
+      "ventas": 23428294
+   },
+   {
+      "id": "PT010701",
+      "nombre": "SALCHICHA x 500 E\/V",
+      "precio": 31100,
+      "ventas": 22094212
+   },
+   {
+      "id": "PT030740",
+      "nombre": "SALCHICHON C\/JAMON 3.2 KG. ENT.",
+      "precio": 35900,
+      "ventas": 21255740
+   },
+   {
+      "id": "PT030806",
+      "nombre": "FIAMBRE PRIMAVERA CUAD E\/V",
+      "precio": 34900,
+      "ventas": 20682113
+   },
+   {
+      "id": "PT011600",
+      "nombre": "MORCILLA",
+      "precio": 29500,
+      "ventas": 20609585
+   },
+   {
+      "id": "MP010006",
+      "nombre": "Puchero de Pollo",
+      "precio": 2300,
+      "ventas": 20166204
+   },
+   {
+      "id": "PT030300",
+      "nombre": "MORTADELA ENTERA",
+      "precio": 32600,
+      "ventas": 19963908
+   },
+   {
+      "id": "PT011510",
+      "nombre": "CHORIZO TOSCANO",
+      "precio": 35400,
+      "ventas": 19703770
+   },
+   {
+      "id": "MP030018",
+      "nombre": "Huesos de Cerdo",
+      "precio": 1600,
+      "ventas": 15936245
+   },
+   {
+      "id": "PT022273",
+      "nombre": "CHORI.COLO.ESP.FETAS X 250 E\/V",
+      "precio": 82900,
+      "ventas": 15584615
+   },
+   {
+      "id": "PT031450",
+      "nombre": "PATE DE HIGADO",
+      "precio": 35300,
+      "ventas": 14486345
+   },
+   {
+      "id": "PT011503",
+      "nombre": "CHOR. PARRILLERO C\/ QUESO E\/V",
+      "precio": 41900,
+      "ventas": 12484316
+   },
+   {
+      "id": "PT043051",
+      "nombre": "SALCHICHAS GRANJA SUIZA 18 UNID E\/V",
+      "precio": 29000,
+      "ventas": 12398838
+   },
+   {
+      "id": "MP030015",
+      "nombre": "Patas de Cerdo",
+      "precio": 6800,
+      "ventas": 11249909
+   },
+   {
+      "id": "PT061006",
+      "nombre": "JAMONADA CORTADA E\/V",
+      "precio": 34900,
+      "ventas": 10510053
+   },
+   {
+      "id": "PT061152",
+      "nombre": "JAMON COCIDO x 200 E\/V",
+      "precio": 44600,
+      "ventas": 10274571
+   },
+   {
+      "id": "PT011751",
+      "nombre": "CHORIZO UCRANIANO E\/V",
+      "precio": 49400,
+      "ventas": 9836366
+   },
+   {
+      "id": "PT011660",
+      "nombre": "MORCILLA VASCA  E\/V",
+      "precio": 37400,
+      "ventas": 9809034
+   },
+   {
+      "id": "PT011505",
+      "nombre": "CHORIZO PARRILLERO C\/ PEPPERONI",
+      "precio": 32500,
+      "ventas": 9468909
+   },
+   {
+      "id": "PT022207",
+      "nombre": "SALAME MILAN FETAS x 150 E\/V",
+      "precio": 83400,
+      "ventas": 9260438
+   },
+   {
+      "id": "PT030267",
+      "nombre": "FIAMBRE CAMPO PICANTE",
+      "precio": 22700,
+      "ventas": 9236317
+   },
+   {
+      "id": "PT022446",
+      "nombre": "JAMONCITO CRUDO x 100 E\/V",
+      "precio": 97700,
+      "ventas": 9126167
+   },
+   {
+      "id": "PT010731",
+      "nombre": "SALCHICHA P\/ SUPER PANCHO E\/V",
+      "precio": 31300,
+      "ventas": 7729926
+   },
+   {
+      "id": "PT011851",
+      "nombre": "LONGANIZA CRIOLLA E\/V",
+      "precio": 75600,
+      "ventas": 7075376
+   },
+   {
+      "id": "MP030023",
+      "nombre": "PALETA CON HUESO",
+      "precio": 27200,
+      "ventas": 6677098
+   },
+   {
+      "id": "PT030295",
+      "nombre": "FIAMBRE PARIS 2.5Kg CUADRADO",
+      "precio": 32600,
+      "ventas": 6660480
+   },
+   {
+      "id": "PT022290",
+      "nombre": "PEPPERONI ENTERO BASTON",
+      "precio": 81000,
+      "ventas": 6348073
+   },
+   {
+      "id": "PT030280",
+      "nombre": "FIAMBRE PARIS ENT. CUADRADO",
+      "precio": 32600,
+      "ventas": 6132761
+   },
+   {
+      "id": "PT071360",
+      "nombre": "PECHUGA AHUMADA DE POLLO E\/V",
+      "precio": 46400,
+      "ventas": 5988769
+   },
+   {
+      "id": "PT071070",
+      "nombre": "JAMON DE POLLO x 250 E\/V",
+      "precio": 42800,
+      "ventas": 5616226
+   },
+   {
+      "id": "PT010605",
+      "nombre": "CHORIZO CALABRESA E\/V",
+      "precio": 42400,
+      "ventas": 5581046
+   },
+   {
+      "id": "PT021900",
+      "nombre": "LOMITO AHUMADO",
+      "precio": 66500,
+      "ventas": 5518204
+   },
+   {
+      "id": "PT011552",
+      "nombre": "CHOR.PICANTE x 1KG BESITO E\/V",
+      "precio": 36200,
+      "ventas": 5236572
+   },
+   {
+      "id": "PT021902",
+      "nombre": "LOMITO AHUMADO E\/V",
+      "precio": 66500,
+      "ventas": 4766777
+   },
+   {
+      "id": "PT011512",
+      "nombre": "CHORIZO TOSCANO x 1KG. E\/V",
+      "precio": 35400,
+      "ventas": 4764400
+   },
+   {
+      "id": "PT010603",
+      "nombre": "CHORIZO VIENA x 1KG E\/V",
+      "precio": 32300,
+      "ventas": 4558338
+   },
+   {
+      "id": "MP030028",
+      "nombre": "HIGADO DE CERDO",
+      "precio": 1600,
+      "ventas": 4350742
+   },
+   {
+      "id": "PT011506",
+      "nombre": "CHORIZO PARRILLERO C\/ PEPPERONI X 1KG E\/V",
+      "precio": 32500,
+      "ventas": 4319334
+   },
+   {
+      "id": "PT011502",
+      "nombre": "CHORIZO PARRILLERO x 1 KG. E\/V",
+      "precio": 30400,
+      "ventas": 4240144
+   },
+   {
+      "id": "PT061005",
+      "nombre": "JAMONADA CORTADA x 1 KG E\/V",
+      "precio": 34900,
+      "ventas": 4071545
+   },
+   {
+      "id": "PT031470",
+      "nombre": "PATE CON JAMON",
+      "precio": 35300,
+      "ventas": 3273982
+   },
+   {
+      "id": "PT043081",
+      "nombre": "CHORIZO PARRILLERO GRANJA SUIZA x 1 KG E\/V",
+      "precio": 28800,
+      "ventas": 3184352
+   },
+   {
+      "id": "PT043041",
+      "nombre": "CHORIZO DE VIENA GRANJA SUIZA x 1 KG E\/V",
+      "precio": 28800,
+      "ventas": 3161791
+   },
+   {
+      "id": "PT011700",
+      "nombre": "BUTIFARRA",
+      "precio": 42800,
+      "ventas": 3030154
+   },
+   {
+      "id": "PT022245",
+      "nombre": "MIGA DE CALABRESA",
+      "precio": 40700,
+      "ventas": 2918597
+   },
+   {
+      "id": "MP030020",
+      "nombre": "LOMO DE CERDO",
+      "precio": 43800,
+      "ventas": 2859594
+   },
+   {
+      "id": "PT030293",
+      "nombre": "FIAMBRE PARIS x 500 E\/V",
+      "precio": 37300,
+      "ventas": 2707390
+   },
+   {
+      "id": "PT011509",
+      "nombre": "CHORIZO PARRILLERO C\/ PEPPERONI x 4 UNID. E\/V",
+      "precio": 32900,
+      "ventas": 2696264
+   },
+   {
+      "id": "PT022011",
+      "nombre": "CUARTO AHUMADO FRACCIONADO E\/V",
+      "precio": 52700,
+      "ventas": 2632945
+   },
+   {
+      "id": "PT011602",
+      "nombre": "MORCILLA x 1KG. E\/V",
+      "precio": 29500,
+      "ventas": 2368011
+   },
+   {
+      "id": "PT030302",
+      "nombre": "MORTADELA E\/V",
+      "precio": 37300,
+      "ventas": 2255232
+   },
+   {
+      "id": "PT011507",
+      "nombre": "CHORIZO PARRILLERO x 4 UNID. E\/V",
+      "precio": 32900,
+      "ventas": 2158357
+   },
+   {
+      "id": "PT061180",
+      "nombre": "JAMON AHUMADO",
+      "precio": 71900,
+      "ventas": 2050745
+   },
+   {
+      "id": "PT011508",
+      "nombre": "CHOR. PARRILLERO C\/ QUESO x 4 UNID. E\/V",
+      "precio": 41900,
+      "ventas": 2026386
+   },
+   {
+      "id": "PT030502",
+      "nombre": "FIAMBRE ESPECIAL x 200 E\/V",
+      "precio": 45400,
+      "ventas": 1992946
+   },
+   {
+      "id": "PT011704",
+      "nombre": "BUTIFARRA x 1KG. E\/V",
+      "precio": 42800,
+      "ventas": 1764851
+   },
+   {
+      "id": "MP030025",
+      "nombre": "COSTELETA CORTADA",
+      "precio": 30000,
+      "ventas": 1739000
+   },
+   {
+      "id": "PT022213",
+      "nombre": "SALAME MILAN GRANDE X 200 E\/V",
+      "precio": 83400,
+      "ventas": 1719507
+   },
+   {
+      "id": "PT021905",
+      "nombre": "MIGA DE LOMITO AHUMADO",
+      "precio": 38400,
+      "ventas": 1529998
+   },
+   {
+      "id": "MP030026",
+      "nombre": "LOMITO DE CERDO",
+      "precio": 43800,
+      "ventas": 1526388
+   },
+   {
+      "id": "PT011603",
+      "nombre": "MORCILLA x 4 UNID. E\/V",
+      "precio": 29900,
+      "ventas": 1368868
+   },
+   {
+      "id": "PT010604",
+      "nombre": "CHORIZO VIENA x 4 UNID. E\/V",
+      "precio": 36000,
+      "ventas": 1337320
+   },
+   {
+      "id": "PT011513",
+      "nombre": "CHORIZO TOSCANO x 4 UNID. E\/V",
+      "precio": 35900,
+      "ventas": 1282522
+   },
+   {
+      "id": "PT011705",
+      "nombre": "BUTIFARRA x 4 UNID. E\/V",
+      "precio": 43200,
+      "ventas": 1241728
+   },
+   {
+      "id": "PT030402",
+      "nombre": "FIAMBRE KRAKOVIA x 200 E\/V",
+      "precio": 40300,
+      "ventas": 1191752
+   },
+   {
+      "id": "PT043056",
+      "nombre": "SUPERPANCHO GRANJA SUIZA 12 UNID E\/V",
+      "precio": 29300,
+      "ventas": 1076435
+   },
+   {
+      "id": "PT030362",
+      "nombre": "MORTADELA TIPO ITALIANA E\/V",
+      "precio": 59900,
+      "ventas": 955095
+   },
+   {
+      "id": "PT022406",
+      "nombre": "BONDIOLA FETAS X 100 E\/V",
+      "precio": 97700,
+      "ventas": 641086
+   },
+   {
+      "id": "PT022200",
+      "nombre": "SALAME MILAN ENTERO BASTON",
+      "precio": 81000,
+      "ventas": 269096
+   },
+   {
+      "id": "PT030360",
+      "nombre": "MORTADELA TIPO ITALIANA",
+      "precio": 55900,
+      "ventas": 132499
+   },
+   {
+      "id": "PT030282",
+      "nombre": "FIAMBRE PARIS CUAD E\/V",
+      "precio": 37300,
+      "ventas": 92088
+   }
+]

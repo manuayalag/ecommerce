@@ -1,0 +1,29 @@
+.header {
+    background-color: #333;
+    padding: 10px;
+    position: fixed; /* Fija el header en la parte superior */
+    top: 0; /* Asegura que esté en la parte superior */
+    left: 0;
+    width: 100%; /* Asegura que ocupe todo el ancho */
+    z-index: 1000; /* Asegura que el header esté por encima de otros elementos */
+  }
+  
+  .header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .header nav ul li {
+    margin: 0 10px;
+  }
+  
+  .header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  body {
+    margin-top: 60px; /* Agrega espacio para que el contenido no quede debajo del header fijo */
+  }
+  
