@@ -17,6 +17,10 @@
   color: white; /* Color de texto blanco para contraste */
 }
 
+.productos-tabla input {
+  width: 40px;
+}
+
 .productos-tabla th:nth-child(2), /* Selecciona la segunda columna (Nombre) */
 .productos-tabla td:nth-child(2) {
   width: 200px; /* Ajusta este valor según sea necesario */
@@ -33,7 +37,7 @@
 }
 
 .producto-item:hover {
-  background-color: #f9f9f9;
+  background-color: #333;
 }
 
 .producto-actions {
